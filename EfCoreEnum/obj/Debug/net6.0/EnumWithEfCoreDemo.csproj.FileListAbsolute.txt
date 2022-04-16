@@ -1,0 +1,27 @@
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.AssemblyInfoInputs.cache
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.AssemblyInfo.cs
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.csproj.CoreCompileInputs.cache
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.deps.json
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.runtimeconfig.json
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.dll
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\bin\Debug\net6.0\ref\EnumWithEfCoreDemo.dll
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.pdb
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.dll
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\ref\EnumWithEfCoreDemo.dll
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.pdb
+F:\Projects\Blog Posts\EF Core 6\EfCoreEnum\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.genruntimeconfig.cache
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.deps.json
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.runtimeconfig.json
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.dll
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\bin\Debug\net6.0\EnumWithEfCoreDemo.pdb
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.csproj.AssemblyReference.cache
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.AssemblyInfoInputs.cache
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.AssemblyInfo.cs
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.csproj.CoreCompileInputs.cache
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.dll
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\refint\EnumWithEfCoreDemo.dll
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.pdb
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\EnumWithEfCoreDemo.genruntimeconfig.cache
+F:\Projects\GitHub\ziggyrafiq\.Net-6-EF-Core-with-Enum-\EfCoreEnum\obj\Debug\net6.0\ref\EnumWithEfCoreDemo.dll
